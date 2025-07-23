@@ -1,0 +1,15 @@
+#ignore virtual environments
+venv/
+.env/
+
+*.bson
+*.json
+*.log
+
+__pycache__/
+*.pyc
+
+.DS_Store
+*.swp
+.idea/
+.vscode/
