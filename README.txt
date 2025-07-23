@@ -6,7 +6,7 @@ env\Scripts\activate
 2. Install dependencies
 pip install -r requirements.txt
 
-3. Make sure mongodb is running
+3. Make sure mongodb is running in a separate terminal
 By default, this app connects to:
 mongodb://localhost:27017
 
